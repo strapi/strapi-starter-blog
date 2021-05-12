@@ -20,7 +20,7 @@
     "pg": "^8.0.3",
     "rimraf": "^3.0.1",
     "sqlite3": "latest",
-    "strapi": "3.1.0",
+    "strapi": "3.2.5",
     "strapi-admin": "3.1.0",
     "strapi-connector-bookshelf": "3.1.0",
     "strapi-plugin-content-manager": "3.1.0",
